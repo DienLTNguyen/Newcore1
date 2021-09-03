@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Dan\.gradle\caches\transforms-3\ac4d4c123d3b724b74bc4157cbe896af\transformed\jetified-core-ktx-1.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Dan\.gradle\caches\transforms-3\07a86dacabe1ec8b27cc5bc93f4636f7\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dan\.gradle\caches\transforms-3\42f2db93f9c2b9d92b00847da63eb2f1\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\1734cbacb83c1c1d893047af8b40a305\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Dan\.gradle\caches\transforms-3\4373f9624753e88c0238b57af7d05233\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\f4659a953e5358aa07b8da228cb9b849\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\0a8f9bf7e0c89d187816ef6e254855e5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\49c769b5c6940fdbfe3cf25a17d5b387\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\512ab81814346f18d8ab353a9b4a2414\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\8712fdd977abc9a5de1c910593357ce3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\00d733bd3b0df39f09f95b2ab9864810\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\5d476ce888ae6af6b933b5b23822a392\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Dan\.gradle\caches\transforms-3\10be6b5b1d83b71c6e4d82e037ee7478\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\f58c943717716fce9ea7087ea0466fc3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\c4ce01c0e0f828a60faefbf0c5bcd7e3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dan\.gradle\caches\transforms-3\d0ab08592be318655d61b4ffb7d0ca05\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dan\.gradle\caches\transforms-3\06c1db51527a6f1798274360408d55a5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\bf2247f35885bb5fd6362d2cc0e98b33\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\05f40a25139f01dbfd472c4c6523543c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dan\.gradle\caches\transforms-3\ad618f9db7d2ff4e125bb31f7a6a8ac6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dan\.gradle\caches\transforms-3\589108731fa11a845a57c3eca5cb1987\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dan\.gradle\caches\transforms-3\05e2585ed0a6a6e4f72de7ab0e92c89e\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Dan\.gradle\caches\transforms-3\07a86dacabe1ec8b27cc5bc93f4636f7\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Dan\.gradle\caches\transforms-3\07a86dacabe1ec8b27cc5bc93f4636f7\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Dan\.gradle\caches\transforms-3\10be6b5b1d83b71c6e4d82e037ee7478\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Dan\.gradle\caches\transforms-3\10be6b5b1d83b71c6e4d82e037ee7478\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\c4ce01c0e0f828a60faefbf0c5bcd7e3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\c4ce01c0e0f828a60faefbf0c5bcd7e3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Dan\.gradle\caches\transforms-3\10be6b5b1d83b71c6e4d82e037ee7478\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.core2.MainActivity
+ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:name
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.core2.Flinder
+ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:20:9-21:51
+	android:noHistory
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:21:13-39
+	android:name
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:20:19-42
+activity#com.example.core2.Chad
+ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:22:9-23:51
+	android:noHistory
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:23:13-39
+	android:name
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:22:19-39
+activity#com.example.core2.Swin
+ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:24:9-25:51
+	android:noHistory
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:25:13-39
+	android:name
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:24:19-39
+activity#com.example.core2.Wool
+ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:26:9-27:51
+	android:noHistory
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:27:13-39
+	android:name
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml:26:19-39
+uses-sdk
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Dan\.gradle\caches\transforms-3\ac4d4c123d3b724b74bc4157cbe896af\transformed\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Dan\.gradle\caches\transforms-3\ac4d4c123d3b724b74bc4157cbe896af\transformed\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Dan\.gradle\caches\transforms-3\07a86dacabe1ec8b27cc5bc93f4636f7\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Dan\.gradle\caches\transforms-3\07a86dacabe1ec8b27cc5bc93f4636f7\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dan\.gradle\caches\transforms-3\42f2db93f9c2b9d92b00847da63eb2f1\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dan\.gradle\caches\transforms-3\42f2db93f9c2b9d92b00847da63eb2f1\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\1734cbacb83c1c1d893047af8b40a305\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\1734cbacb83c1c1d893047af8b40a305\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Dan\.gradle\caches\transforms-3\4373f9624753e88c0238b57af7d05233\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Dan\.gradle\caches\transforms-3\4373f9624753e88c0238b57af7d05233\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\f4659a953e5358aa07b8da228cb9b849\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\f4659a953e5358aa07b8da228cb9b849\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\0a8f9bf7e0c89d187816ef6e254855e5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\0a8f9bf7e0c89d187816ef6e254855e5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\49c769b5c6940fdbfe3cf25a17d5b387\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\49c769b5c6940fdbfe3cf25a17d5b387\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\512ab81814346f18d8ab353a9b4a2414\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\512ab81814346f18d8ab353a9b4a2414\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\8712fdd977abc9a5de1c910593357ce3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\8712fdd977abc9a5de1c910593357ce3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\00d733bd3b0df39f09f95b2ab9864810\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\00d733bd3b0df39f09f95b2ab9864810\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\5d476ce888ae6af6b933b5b23822a392\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\5d476ce888ae6af6b933b5b23822a392\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Dan\.gradle\caches\transforms-3\10be6b5b1d83b71c6e4d82e037ee7478\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Dan\.gradle\caches\transforms-3\10be6b5b1d83b71c6e4d82e037ee7478\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\f58c943717716fce9ea7087ea0466fc3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\f58c943717716fce9ea7087ea0466fc3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\c4ce01c0e0f828a60faefbf0c5bcd7e3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dan\.gradle\caches\transforms-3\c4ce01c0e0f828a60faefbf0c5bcd7e3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dan\.gradle\caches\transforms-3\d0ab08592be318655d61b4ffb7d0ca05\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dan\.gradle\caches\transforms-3\d0ab08592be318655d61b4ffb7d0ca05\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dan\.gradle\caches\transforms-3\06c1db51527a6f1798274360408d55a5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dan\.gradle\caches\transforms-3\06c1db51527a6f1798274360408d55a5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\bf2247f35885bb5fd6362d2cc0e98b33\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\bf2247f35885bb5fd6362d2cc0e98b33\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\05f40a25139f01dbfd472c4c6523543c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dan\.gradle\caches\transforms-3\05f40a25139f01dbfd472c4c6523543c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dan\.gradle\caches\transforms-3\ad618f9db7d2ff4e125bb31f7a6a8ac6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dan\.gradle\caches\transforms-3\ad618f9db7d2ff4e125bb31f7a6a8ac6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dan\.gradle\caches\transforms-3\589108731fa11a845a57c3eca5cb1987\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dan\.gradle\caches\transforms-3\589108731fa11a845a57c3eca5cb1987\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dan\.gradle\caches\transforms-3\05e2585ed0a6a6e4f72de7ab0e92c89e\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dan\.gradle\caches\transforms-3\05e2585ed0a6a6e4f72de7ab0e92c89e\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dan\OneDrive - Swinburne University\COS30017 - Mobile Dev\Core2\app\src\main\AndroidManifest.xml

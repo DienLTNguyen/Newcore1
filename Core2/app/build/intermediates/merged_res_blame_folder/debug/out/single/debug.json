@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\drawable_chad.jpg.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\drawable\\chad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_wool.xml.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\layout\\activity_wool.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_flinder.xml.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\layout\\activity_flinder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chad.xml.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\layout\\activity_chad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\drawable_swin.jpg.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\drawable\\swin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\drawable_woolworth.jpg.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\drawable\\woolworth.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\drawable_flinder.jpg.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\drawable\\flinder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_swin.xml.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\layout\\activity_swin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dan\\OneDrive - Swinburne University\\COS30017 - Mobile Dev\\Core2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
