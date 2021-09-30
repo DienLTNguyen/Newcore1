@@ -1,0 +1,2 @@
+com/example/core1/BuildConfig.java
+ com.example.core1.BuildConfig
